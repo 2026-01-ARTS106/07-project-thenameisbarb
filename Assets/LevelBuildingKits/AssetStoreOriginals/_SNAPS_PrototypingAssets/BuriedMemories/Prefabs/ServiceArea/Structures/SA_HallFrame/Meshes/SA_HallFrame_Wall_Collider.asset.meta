@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06a95d6b2a1546d4a9de2c0d126aaa5f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148769
+  packageName: 'Snaps Prototype | Buried Memories Volume 2: Serekh'
+  packageVersion: 1.1
+  assetPath: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/Icons_Volume02/Prefabs/ServiceArea/Structures/SA_HallFrame/Meshes/SA_HallFrame_Wall_Collider.asset
+  uploadId: 381955
